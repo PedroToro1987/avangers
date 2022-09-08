@@ -3,4 +3,7 @@
 * martha
 * rosa
 * liliana
+* francisco
+* lorena 
+* margarita
 
