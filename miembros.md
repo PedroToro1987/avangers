@@ -13,6 +13,5 @@
 * Spider Woman
 * Thor
 * Vision
-* Wasp
-* nick fiure
+
 
